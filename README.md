@@ -1,17 +1,24 @@
 # 💫 About Me:
-🔭 I am currently working on get my Data Science degree done.<br>👯 I am looking to collaborate on AI or related project.<br>🤝 I am looking for help with my learning path.<br>🌱 I am currently learning the basics of data scientist.<br>💬 Ask me about interesting problem-solving challenges.<br>⚡ Fun fact: I like solving puzzles but I struggle a lot.<br><br>
-
+🔭 **Currently focusing on:** Data Science applied to Renewable Energy (Solar Photovoltaic).
+👯 **Looking to collaborate on:** AI-driven energy optimization and Time-Series forecasting.
+🌱 **Specializing in:** Advanced ML models (SARIMAX, LSTM, XGBoost) and Data Engineering pipelines.
+💬 **Ask me about:** Energy production prediction for PV plants and analytical problem-solving.
+⚡ **Fun fact:** I've spent 5 years in Japan, so I know that flowery problems are easier to solve there!
 
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### 📊 Data Science & Analysis
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ⚙️ Engineering & Deployment
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🎨 Visualization & Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 # 📄 Proyectos Seleccionados:
 - [☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/tu-usuario/GitHub02)
 
