@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 **Currently focusing on:** Data Science applied to Renewable Energy (Solar Photovoltaic).
 👯 **Looking to collaborate on:** AI-driven energy optimization and Time-Series forecasting.
-🌱 **Specializing in:** Advanced ML models (SARIMAX, LSTM, XGBoost) and Data Engineering pipelines.
+🌱 **Specializing in:** Advanced ML models (SARIMAX, LSTM, XGBoost, ANN, Random Forest) and Data Engineering pipelines.
 💬 **Ask me about:** Energy production prediction for PV plants and analytical problem-solving.
-⚡ **Fun fact:** I've spent 5 years in Japan, so I know that flowery problems are easier to solve there!
+⚡ Fun fact: Living 5 years in Japan taught me that patience is the most important hyperparameter, both in life and when training a model.
 
 
 
