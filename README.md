@@ -20,7 +20,7 @@
 
 
 # 📄 Proyectos Seleccionados:
-- [☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/tu-usuario/GitHub02)
+- [☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/RubenixArt/GitHub02)
 
 
 ## 🌐 Socials:
