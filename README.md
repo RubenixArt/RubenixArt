@@ -22,7 +22,7 @@
 # 📄 Proyectos Seleccionados:
 
 •	[📊 Pipeline de Datos Solares - Huesca](https://github.com/RubenixArt/GitHub)    
-•	[☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/RubenixArt/GitHub02)    
+•	[☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/RubenixArt/SARIMAX-Model.git)    
 •	[🌳 Regresión con Random Forest - Energía Solar](https://github.com/RubenixArt/GitHub03)    
 •	[🧠 Red Neuronal Artificial (ANN) - Optimización de Potencia](https://github.com/RubenixArt/GitHub04)
 
