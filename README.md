@@ -21,9 +21,9 @@
 
 # 📄 Proyectos Seleccionados:
 
-•	[📊 Pipeline de Datos Solares - Huesca](https://github.com/RubenixArt/solar-data-pipeline-huesca.git) 
-•	[☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/RubenixArt/SARIMAX-Model.git)    
-•	[🌳 Regresión con Random Forest - Energía Solar](https://github.com/RubenixArt/RandomForest-Model)    
+•	[📊 Pipeline de Datos Solares - Huesca](https://github.com/RubenixArt/solar-data-pipeline-huesca.git)    
+•	[☀️ Predicción Solar SARIMAX - Planta Graus](https://github.com/RubenixArt/SARIMAX-Model.git)      
+•	[🌳 Regresión con Random Forest - Energía Solar](https://github.com/RubenixArt/RandomForest-Model)      
 •	[🧠 Red Neuronal Artificial (ANN) - Optimización de Potencia](https://github.com/RubenixArt/ANN-Model)
 
 
